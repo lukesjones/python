@@ -1,0 +1,3 @@
+in strings.py ask the user for their age and print
+
+hello, jim jones, you are X years old
