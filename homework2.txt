@@ -1,0 +1,1 @@
+create 2 more functions for multiply and divide.
